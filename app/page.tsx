@@ -10,7 +10,7 @@ export default function HomePage() {
 
         {/* Título Principal */}
         <h1 className="text-4xl md:text-6xl font-bold text-center mb-12 text-amber-400">
-          Reflexões de Marco Aurélio
+          Reflexões de Marco Aurélio por Willians
         </h1>
 
         {/* Container para as citações */}

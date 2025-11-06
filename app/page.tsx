@@ -11,7 +11,7 @@ export default function HomePage() {
         {/* COR: Trocada de 'text-amber-400' para 'text-red-600' (vermelho) */}
         {/* FONTE: 'font-bold' (negrito) mantido como você pediu */}
         <h1 className="text-4xl md:text-6xl font-bold text-center mb-12 text-red-600">
-          Reflexões de Marco Aurélio
+          Reflexões de Marco Aurélio por Willians
         </h1>
 
         {/* Container para as citações */}
